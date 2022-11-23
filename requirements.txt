@@ -1,0 +1,4 @@
+flask
+waitress
+google
+beautifulsoup4
